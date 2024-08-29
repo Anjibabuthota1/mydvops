@@ -14,3 +14,9 @@ public class Remo {
  }
 	
 }
+
+public class Nadh {
+	public static void main(String[] args) {
+		System.out.println("Hello patulu");
+	}
+}
